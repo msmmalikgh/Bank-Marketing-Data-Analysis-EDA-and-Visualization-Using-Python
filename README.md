@@ -44,7 +44,7 @@ Exploratory Data Analysis (EDA) of a bank’s direct marketing campaigns to unde
 
 ---
 
-## 📊 Dataset
+## 📊 [**Dataset**](https://github.com/msmmalikgh/Bank-Marketing-Data-Analysis-EDA-and-Visualization-Using-Python/tree/main/Dataset) 
 - **Records:** 41,188  
 - **Target:** `y` (Term deposit subscription: Yes / No)  
 - **Source:** Bank Marketing Dataset  
