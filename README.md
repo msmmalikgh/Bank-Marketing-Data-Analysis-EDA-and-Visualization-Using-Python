@@ -83,4 +83,4 @@ Exploratory Data Analysis (EDA) of a bank’s direct marketing campaigns to unde
 
 Images/ — [**screenshots**](https://github.com/msmmalikgh/Bank-Marketing-Data-Analysis-EDA-and-Visualization-Using-Python/tree/main/Screenshots)
 
-[**Final Report**]https://github.com/msmmalikgh/Bank-Marketing-Data-Analysis-EDA-and-Visualization-Using-Python/blob/main/Final%20Report
+[**Final Report**](https://github.com/msmmalikgh/Bank-Marketing-Data-Analysis-EDA-and-Visualization-Using-Python/blob/main/Final%20Report)
